@@ -1,0 +1,8 @@
+./MNIST
+./mnist.ckpt
+
+.idea
+.ipynb_checkpoints
+./lightning_logs
+*scale*
+**/*.ckpt
