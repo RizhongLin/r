@@ -1,10 +1,10 @@
-./MNIST
-./mnist.ckpt
+**/MNIST
+**/mnist.ckpt
 
-.idea
-.ipynb_checkpoints
-./lightning_logs
-*scale*
+**/.idea
+**/.ipynb_checkpoints
+**/lightning_logs
+**/*scale*
 **/*.ckpt
 
 # Byte-compiled / optimized / DLL files
